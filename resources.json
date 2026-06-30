@@ -1,0 +1,1208 @@
+{
+"Штурмовая винтовка Booker Model 838 (Ящик)": {
+"resource": "Рмат",
+"cost_per_box": 15,
+"distribution": "per_9",
+"group": 1
+},
+"Штурмовая винтовка Aalto 24 (Ящик)": {
+"resource": "Рмат",
+"cost_per_box": 15,
+"distribution": "per_9",
+"group": 1
+},
+"7.92-мм (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 120,
+"distribution": "per_9",
+"group": 1
+},
+"Malone MK.2 (Ящик)": {
+"resource": "Рмат",
+"cost_per_box": 25,
+"distribution": "per_9",
+"group": 1
+},
+"Осколочная граната A3 Harpa (Ящик)": {
+"resource": ["Бмат", "Емат"],
+"cost_per_box": [100, 40],
+"distribution": "per_9",
+"group": 1
+},
+"Cascadier 873 (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 60,
+"distribution": "per_9",
+"group": 1
+},
+"8-мм (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 40,
+"distribution": "per_9",
+"group": 1
+},
+"Cometa T2-9 (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 60,
+"distribution": "per_9",
+"group": 1
+},
+"Хангман 757 (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 125,
+"distribution": "per_9",
+"group": 1
+},
+".44 Mag (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 40,
+"distribution": "per_9",
+"group": 1
+},
+"Автоматическая винтовка Sampo 77 (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 125,
+"distribution": "per_9",
+"group": 1
+},
+"Blakerow 871 (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 140,
+"distribution": "per_9",
+"group": 1
+},
+"Clancy Cinder M3 (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 130,
+"distribution": "per_9",
+"group": 1
+},
+"No.2B Hawthorne (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 70,
+"distribution": "per_9",
+"group": 1
+},
+"No.2 Loughcaster (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 100,
+"distribution": "per_9",
+"group": 1
+},
+"Clancy-Raca M4 (Ящик)": {
+"resource": ["Бмат", "Рмат"],
+"cost_per_box": [250, 25],
+"distribution": "per_9",
+"group": 1
+},
+"7.62-мм (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 80,
+"distribution": "per_9",
+"group": 1
+},
+"No.4 The Pillory Scattergun (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 80,
+"distribution": "per_9",
+"group": 1
+},
+"Дробь (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 80,
+"distribution": "per_9",
+"group": 1
+},
+"Пистолет-пулемет No.1 “The Liar” (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 120,
+"distribution": "per_9",
+"group": 1
+},
+"Пистолет-пулемет Fiddler Model 868 (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 120,
+"distribution": "per_9",
+"group": 1
+},
+"9-мм (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 80,
+"distribution": "per_9",
+"group": 1
+},
+"Дымовая граната PT-815 (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 120,
+"distribution": "per_9",
+"group": 1
+},
+"Газовая граната (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 140,
+"distribution": "per_9",
+"group": 1
+},
+"12.7-мм (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 100,
+"distribution": "per_9",
+"group": 1
+},
+"Противотанковое ружье Neville  (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 150,
+"distribution": "per_9",
+"group": 2
+},
+"Тренога (Ящик)": {
+  "resource": ["Бмат"],
+  "cost_per_box": [100],
+  "distribution": "per_4",
+  "group": 4
+},
+"14.5mm (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 100,
+"distribution": "per_9",
+"group": 2
+},
+"РПГ \"Carnyx\" (Ящик)": {
+"resource": ["Бмат", "Рмат"],
+"cost_per_box": [125, 15],
+"distribution": "per_9",
+"group": 2
+},
+"Бронебойный/РПГ (Ящик)": {
+"resource": ["Бмат", "Емат"],
+"cost_per_box": [60, 150],
+"distribution": "per_9",
+"group": 2
+},
+"Станковый Bonesaw MK.3 (Ящик)": {
+"resource": ["Бмат", "Рмат"],
+"cost_per_box": [100, 5],
+"distribution": "per_9",
+"group": 2
+},
+"Bonesaw MK.3 (Ящик)": {
+"resource": ["Бмат", "Рмат"],
+"cost_per_box": [100, 25],
+"distribution": "per_9",
+"group": 2
+},
+"Бронебойный навесной/РПГ (Ящик)": {
+"resource": ["Бмат", "Емат"],
+"cost_per_box": [60, 150],
+"distribution": "per_9",
+"group": 2
+},
+"Willow’s Bane Model 845 (Ящик)": {
+"resource": ["Бмат", "Рмат"],
+"cost_per_box": [165, 30],
+"distribution": "per_9",
+"group": 2
+},
+"Граната Tremola Gpb-1 (Ящик)": {
+"resource": ["Бмат", "Емат"],
+"cost_per_box": [75, 100],
+"distribution": "per_9",
+"group": 2
+},
+"Malone Ratcatcher MK.1 (Ящик)": {
+"resource": ["Бмат", "Рмат"],
+"cost_per_box": [100, 5],
+"distribution": "per_9",
+"group": 2
+},
+"30мм (Ящик)": {
+"resource": ["Бмат", "Емат"],
+"cost_per_box": [80, 40],
+"distribution": "per_9",
+"group": 2
+},
+"Миномёт Cremari (Ящик)": {
+"resource": ["Бмат", "Рмат"],
+"cost_per_box": [100, 25],
+"distribution": "per_9",
+"group": 2
+},
+"Осветительный Минометный Снаряд (Ящик)": {
+"resource": ["Бмат", "Емат"],
+"cost_per_box": [60, 15],
+"distribution": "per_9",
+"group": 2
+},
+"Осколочный минометный снаряд (Ящик)": {
+"resource": ["Бмат", "Емат"],
+"cost_per_box": [60, 20],
+"distribution": "per_9",
+"group": 2
+},
+"Минометный Снаряд (Ящик)": {
+"resource": ["Бмат", "Емат"],
+"cost_per_box": [60, 70],
+"distribution": "per_9",
+"group": 2
+},
+"Граната BF5 White Ash Flask (Ящик)": {
+"resource": ["Бмат", "Емат"],
+"cost_per_box": [100, 80],
+"distribution": "per_9",
+"group": 2
+},
+"B2 Varsi Anti-Tank Grenade (Ящик)": {
+"resource": ["Бмат", "Емат"],
+"cost_per_box": [95, 125],
+"distribution": "per_9",
+"group": 2
+},
+"Mammon 91-b (Ящик)": {
+"resource": ["Бмат", "Емат"],
+"cost_per_box": [100, 20],
+"distribution": "per_9",
+"group": 2
+},
+"Противотанковая липкая бомба (Ящик)": {
+"resource": ["Бмат", "Емат"],
+"cost_per_box": [50, 100],
+"distribution": "per_9",
+"group": 2
+},
+"Cutler Foebreaker (Ящик)": {
+"resource": ["Бмат", "Рмат"],
+"cost_per_box": [100, 5],
+"distribution": "per_9",
+"group": 2
+},
+"Cutler Launcher 4 (Ящик)": {
+"resource": ["Бмат", "Рмат"],
+"cost_per_box": [100, 35],
+"distribution": "per_9",
+"group": 2
+},
+"РПГ (Ящик)": {
+"resource": ["Бмат", "Емат"],
+"cost_per_box": [60, 90],
+"distribution": "per_9",
+"group": 2
+},
+"150-мм (Ящик)": {
+"resource": ["Бмат", "Хемат"],
+"cost_per_box": [120, 60],
+"distribution": "per_9",
+"group": 3
+},
+"120-мм (Ящик)": {
+"resource": ["Бмат", "Хемат"],
+"cost_per_box": [120, 10],
+"distribution": "per_9",
+"group": 3
+},
+"250mm \"Purity\" Shell (Ящик)": {
+"resource": ["Бмат", "Хемат"],
+"cost_per_box": [120, 100],
+"distribution": "per_9",
+"group": 3
+},
+"68мм (Ящик)": {
+"resource": ["Бмат", "Емат"],
+"cost_per_box": [120, 240],
+"distribution": "per_9",
+"group": 3
+},
+"40-мм (Ящик)": {
+"resource": ["Бмат", "Емат"],
+"cost_per_box": [160, 240],
+"distribution": "per_9",
+"group": 3
+},
+"Колючая проволока (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 15,
+"distribution": "per_4",
+"group": 4
+},
+"Buckhorn CCQ-18 (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 40,
+"distribution": "per_4",
+"group": 4
+},
+"Бинокль (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 75,
+"distribution": "per_4",
+"group": 4
+},
+"Хавок Заряд (Ящик)": {
+"resource": ["Бмат", "Хемат"],
+"cost_per_box": [75, 40],
+"distribution": "per_4",
+"group": 4
+},
+"Топливо для Willow’s Bane (Ящик)": {
+"resource": ["Бмат", "Хемат"],
+"cost_per_box": [135, 20],
+"distribution": "per_4",
+"group": 4
+},
+"Набор для прослушивания (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 150,
+"distribution": "per_4",
+"group": 4
+},
+"Falias Raiding Club (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 200,
+"distribution": "per_4",
+"group": 4
+},
+"Металлическая балка (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 15,
+"distribution": "per_4",
+"group": 4
+},
+"Радиорюкзак (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 150,
+"distribution": "per_4",
+"group": 4
+},
+"Мешок с песком (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 15,
+"distribution": "per_4",
+"group": 4
+},
+"Детонатор Хавок Заряда (Ящик)": {
+"resource": ["Бмат", "Хемат"],
+"cost_per_box": [75, 20],
+"distribution": "per_4",
+"group": 4
+},
+"Alligator Charge (Ящик)": {
+"resource": ["Бмат", "Емат"],
+"cost_per_box": [150, 160],
+"distribution": "per_4",
+"group": 4
+},
+"Лопата (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 200,
+"distribution": "per_4",
+"group": 4
+},
+"Кувалда (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 200,
+"distribution": "per_4",
+"group": 4
+},
+"Ветроуказатель (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 150,
+"distribution": "per_4",
+"group": 4
+},
+"Гаечный ключ (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 75,
+"distribution": "per_4",
+"group": 4
+},
+"Ведро для воды (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 80,
+"distribution": "per_4",
+"group": 4
+},
+"Противогаз (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 160,
+"distribution": "per_4",
+"group": 4
+},
+"Фильтр для противогаза (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 100,
+"distribution": "per_4",
+"group": 4
+},
+"Подствольный гранатомёт (Ящик)": {
+"resource": ["Бмат", "Рмат"],
+"cost_per_box": [85, 10],
+"distribution": "per_4",
+"group": 4
+},
+"Рация (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 75,
+"distribution": "per_4",
+"group": 4
+},
+"Припасы Обслуживания (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 250,
+"distribution": "per_9",
+"group": 5
+},
+"Бинты (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 80,
+"distribution": "per_4",
+"group": 6
+},
+"Набор Первой Помощи (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 60,
+"distribution": "per_4",
+"group": 6
+},
+"Реанимационный набор (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 80,
+"distribution": "per_4",
+"group": 6
+},
+"Плазма (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 80,
+"distribution": "per_4",
+"group": 6
+},
+"Солдатское снаряжение (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 80,
+"distribution": "per_4",
+"group": 6
+},
+"Шинель специалиста (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 100,
+"distribution": "per_9",
+"group": 7
+},
+"Стальная кираса (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 150,
+"distribution": "per_9",
+"group": 7
+},
+"Сапёрное снаряжение (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 100,
+"distribution": "per_9",
+"group": 7
+},
+"Куртка врача (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 100,
+"distribution": "per_9",
+"group": 7
+},
+"Gentleman’s Peacoat (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 100,
+"distribution": "per_9",
+"group": 7
+},
+"Офицерская регалия (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 100,
+"distribution": "per_9",
+"group": 7
+},
+"Дозорная мантия (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 100,
+"distribution": "per_9",
+"group": 7
+},
+"Парка Caoivish (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 100,
+"distribution": "per_9",
+"group": 7
+},
+"Стеганный Комбинезон (Ящик)": {
+"resource": "Бмат",
+"cost_per_box": 100,
+"distribution": "per_9",
+"group": 7
+},
+"Dunne Responder 3e (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [450],
+"distribution": "per_person",
+"group": 8
+},
+"O’Brien V.190 Knave (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [120],
+"distribution": "per_person",
+"group": 8
+},
+"O’Brien V.110 (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [75],
+"distribution": "per_person",
+"group": 8
+},
+"Dunne Caravaner 2f (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [300],
+"distribution": "per_person",
+"group": 8
+},
+"BMS - Universal Assembly Rig (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [300],
+"distribution": "per_person",
+"group": 8
+},
+"Мобильный автокран БМС 2 класса (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [375],
+"distribution": "per_person",
+"group": 8
+},
+"Noble Widow MK. XIV (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [480],
+"distribution": "per_person",
+"group": 8
+},
+"Collins орудие 68-мм (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [60],
+"distribution": "per_person",
+"group": 8
+},
+"Balfour Wolfhound 40мм (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [60],
+"distribution": "per_person",
+"group": 8
+},
+"Swallowtail 988/127-2 (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [60],
+"distribution": "per_person",
+"group": 8
+},
+"Balfour Falconer 250-мм (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [105],
+"distribution": "per_person",
+"group": 8
+},
+"Бортовой грузовик BMS - Packmule (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [90],
+"distribution": "per_person",
+"group": 8
+},
+"Полугусеничный Бронетранспортер Niska Mk. I (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [180],
+"distribution": "per_person",
+"group": 8
+},
+"Mulloy LPC (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [60],
+"distribution": "per_person",
+"group": 8
+},
+"Devitt Mk. III (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [360],
+"distribution": "per_person",
+"group": 8
+},
+"Gallagher Brigand Mk. I (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [450],
+"distribution": "per_person",
+"group": 8
+},
+"Silverhand - Mk. IV (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [465],
+"distribution": "per_person",
+"group": 8
+},
+"Kivela Power Wheel 80-1 (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [255],
+"distribution": "per_person",
+"group": 8
+},
+"King Spire Mk. I (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [210],
+"distribution": "per_person",
+"group": 8
+},
+"Drummond 100a (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [30],
+"distribution": "per_person",
+"group": 8
+},
+"Rooster - Junkwagon (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [30],
+"distribution": "per_person",
+"group": 8
+},
+"Dunne Fuelrunner 2d (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [300],
+"distribution": "per_person",
+"group": 8
+},
+"Самосвал Dunne Loadlugger 3c (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [360],
+"distribution": "per_person",
+"group": 8
+},
+"Dunne Transport (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [300],
+"distribution": "per_person",
+"group": 8
+},
+"BMS - Aquatipper (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [450],
+"distribution": "per_person",
+"group": 8
+},
+"BMS - Ironship (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [1500],
+"distribution": "per_person",
+"group": 8
+},
+"74b-1 Ronan Gunship (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [420],
+"distribution": "per_person",
+"group": 8
+},
+"Leary Shellbore 68-мм (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [450],
+"distribution": "per_person",
+"group": 9
+},
+"Huber Exalt 150mm (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [525],
+"distribution": "per_person",
+"group": 9
+},
+"Leary Snare Trap 20 (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [225],
+"distribution": "per_person",
+"group": 9
+},
+"Huber Lariat 120мм (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [105],
+"distribution": "per_person",
+"group": 9
+},
+"Поддон для материалов (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [75],
+"distribution": "per_person",
+"group": 9
+},
+"Контейнер для ресурсов (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [150],
+"distribution": "per_person",
+"group": 9
+},
+"Грузовой контейнер (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [300],
+"distribution": "per_person",
+"group": 9
+},
+"Бетономешалка (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [225],
+"distribution": "per_person",
+"group": 9
+},
+"Construction Equipment (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [150],
+"distribution": "per_person",
+"group": 9
+},
+"Жидкостный контейнер (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [300],
+"distribution": "per_person",
+"group": 9
+},
+"Базовые материалы (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [100],
+"distribution": "balance_fill",
+"group": 10
+},
+"Рафинированные материалы (Ящик)": {
+"resource": ["Рмат"],
+"cost_per_box": [20],
+"distribution": "balance_fill",
+"group": 10
+},
+"Порох (Ящик)": {
+"resource": ["Емат"],
+"cost_per_box": [40],
+"distribution": "balance_fill",
+"group": 10
+},
+"Тяжёлый порох (Ящик)": {
+"resource": ["Хемат"],
+"cost_per_box": [30],
+"distribution": "balance_fill",
+"group": 10
+},
+"Дизель (Ящик)": {
+"resource": ["Бмат"],
+"cost_per_box": [5],
+"distribution": "balance_fill",
+"group": 10
+},
+  "Dunne Responder 3e": {
+    "resource": ["Бмат"],
+    "cost_per_box": [150],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "O’Brien V.190 Knave": {
+    "resource": ["Рмат"],
+    "cost_per_box": [40],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "O’Brien V.110": {
+    "resource": ["Рмат"],
+    "cost_per_box": [25],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Dunne Caravaner 2f": {
+    "resource": ["Бмат"],
+    "cost_per_box": [100],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "BMS - Universal Assembly Rig": {
+    "resource": ["Бмат"],
+    "cost_per_box": [100],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Мобильный автокран БМС 2 класса": {
+    "resource": ["Бмат"],
+    "cost_per_box": [125],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Noble Widow MK. XIV": {
+    "resource": ["Рмат"],
+    "cost_per_box": [160],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Collins орудие 68-мм": {
+    "resource": ["Рмат"],
+    "cost_per_box": [20],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Balfour Wolfhound 40мм": {
+    "resource": ["Рмат"],
+    "cost_per_box": [20],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Swallowtail 988/127-2": {
+    "resource": ["Рмат"],
+    "cost_per_box": [20],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Balfour Falconer 250-мм": {
+    "resource": ["Рмат"],
+    "cost_per_box": [35],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Бортовой грузовик BMS - Packmule": {
+    "resource": ["Рмат"],
+    "cost_per_box": [30],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Полугусеничный Бронетранспортер Niska Mk. I": {
+    "resource": ["Рмат"],
+    "cost_per_box": [60],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Mulloy LPC": {
+    "resource": ["Рмат"],
+    "cost_per_box": [20],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Devitt Mk. III": {
+    "resource": ["Рмат"],
+    "cost_per_box": [120],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Gallagher Brigand Mk. I": {
+    "resource": ["Рмат"],
+    "cost_per_box": [150],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Silverhand - Mk. IV": {
+    "resource": ["Рмат"],
+    "cost_per_box": [155],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Kivela Power Wheel 80-1": {
+    "resource": ["Бмат"],
+    "cost_per_box": [85],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "King Spire Mk. I": {
+    "resource": ["Рмат"],
+    "cost_per_box": [70],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Drummond 100a": {
+    "resource": ["Рмат"],
+    "cost_per_box": [10],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Rooster - Junkwagon": {
+    "resource": ["Рмат"],
+    "cost_per_box": [10],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Dunne Fuelrunner 2d": {
+    "resource": ["Бмат"],
+    "cost_per_box": [100],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Самосвал Dunne Loadlugger 3c": {
+    "resource": ["Бмат"],
+    "cost_per_box": [120],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Dunne Transport": {
+    "resource": ["Бмат"],
+    "cost_per_box": [100],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "BMS - Aquatipper": {
+    "resource": ["Бмат"],
+    "cost_per_box": [150],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "BMS - Ironship": {
+    "resource": ["Бмат"],
+    "cost_per_box": [500],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "74b-1 Ronan Gunship": {
+    "resource": ["Рмат"],
+    "cost_per_box": [140],
+    "distribution": "per_person_one",
+    "group": 8
+  },
+  "Leary Shellbore 68-мм": {
+    "resource": ["Бмат"],
+    "cost_per_box": [150],
+    "distribution": "per_person_one",
+    "group": 9
+  },
+  "Huber Exalt 150mm": {
+    "resource": ["Рмат"],
+    "cost_per_box": [175],
+    "distribution": "per_person_one",
+    "group": 9
+  },
+  "Leary Snare Trap 20": {
+    "resource": ["Бмат"],
+    "cost_per_box": [75],
+    "distribution": "per_person_one",
+    "group": 9
+  },
+  "Huber Lariat 120мм": {
+    "resource": ["Рмат"],
+    "cost_per_box": [35],
+    "distribution": "per_person_one",
+    "group": 9
+  },
+  "Поддон для материалов": {
+    "resource": ["Бмат"],
+    "cost_per_box": [25],
+    "distribution": "per_person_one",
+    "group": 9
+  },
+  "Контейнер для ресурсов": {
+    "resource": ["Бмат"],
+    "cost_per_box": [50],
+    "distribution": "per_person_one",
+    "group": 9
+  },
+  "Грузовой контейнер": {
+    "resource": ["Бмат"],
+    "cost_per_box": [100],
+    "distribution": "per_person_one",
+    "group": 9
+  },
+  "Бетономешалка": {
+    "resource": ["Рмат"],
+    "cost_per_box": [75],
+    "distribution": "per_person_one",
+    "group": 9
+  },
+  "Construction Equipment": {
+    "resource": ["Рмат"],
+    "cost_per_box": [50],
+    "distribution": "per_person_one",
+    "group": 9
+  },
+  "Жидкостный контейнер": {
+    "resource": ["Бмат"],
+    "cost_per_box": [100],
+    "distribution": "per_person_one",
+    "group": 9
+  },
+  "950-70b Anti-Aircraft Shell (Ящик)": {
+  "resource": ["Бмат", "Хемат"],
+  "cost_per_box": [100, 15],
+  "distribution": "per_9",
+  "group": 3
+},
+"20мм (Ящик)": {
+  "resource": ["Бмат"],
+  "cost_per_box": [120],
+  "distribution": "per_9",
+  "group": 3
+},
+"Shatter Missile (Ящик)": {
+  "resource": ["Бмат", "Хемат"],
+  "cost_per_box": [250, 250],
+  "distribution": "per_9",
+  "group": 3
+},
+"Quillback Torpedo (Ящик)": {
+  "resource": ["Бмат", "Емат"],
+  "cost_per_box": [125, 75],
+  "distribution": "per_9",
+  "group": 3
+},
+"250mm \"Fury\" Shell (Ящик)": {
+  "resource": ["Бмат", "Хемат"],
+  "cost_per_box": [250, 200],
+  "distribution": "per_9",
+  "group": 3
+},
+"E681-B Hullbreaker Mine (Ящик)": {
+  "resource": ["Бмат", "Емат"],
+  "cost_per_box": [125, 35],
+  "distribution": "per_9",
+  "group": 3
+},
+"Liaison Transmitter (Ящик)": {
+  "resource": ["Бмат"],
+  "cost_per_box": [75],
+  "distribution": "per_4",
+  "group": 4
+},
+"Bellweather by VAC (Ящик)": {
+  "resource": ["Бмат"],
+  "cost_per_box": [450],
+  "distribution": "per_person",
+  "group": 8
+},
+"Rinnspeir Ornitier-Class Gunship (Ящик)": {
+  "resource": ["Бмат"],
+  "cost_per_box": [1350],
+  "distribution": "per_person",
+  "group": 8
+},
+"81f-f Ronan Blackguard (Ящик)": {
+  "resource": ["Рмат"],
+  "cost_per_box": [300],
+  "distribution": "per_person",
+  "group": 8
+},
+"Das Krokodil by VAC (Ящик)": {
+  "resource": ["Бмат"],
+  "cost_per_box": [300],
+  "distribution": "per_person",
+  "group": 8
+},
+"68A-4 Ronan Fathomer (Ящик)": {
+  "resource": ["Бмат"],
+  "cost_per_box": [750],
+  "distribution": "per_person",
+  "group": 8
+},
+"Leary AA-70 Bolas (Ящик)": {
+  "resource": ["Рмат"],
+  "cost_per_box": [525],
+  "distribution": "per_person",
+  "group": 9
+},
+"Bellweather by VAC": {
+  "resource": ["Бмат"],
+  "cost_per_box": [150],
+  "distribution": "per_person_one",
+  "group": 8
+},
+"Rinnspeir Ornitier-Class Gunship": {
+  "resource": ["Бмат"],
+  "cost_per_box": [450],
+  "distribution": "per_person_one",
+  "group": 8
+},
+"81f-f Ronan Blackguard": {
+  "resource": ["Рмат"],
+  "cost_per_box": [100],
+  "distribution": "per_person_one",
+  "group": 8
+},
+"Das Krokodil by VAC": {
+  "resource": ["Бмат"],
+  "cost_per_box": [100],
+  "distribution": "per_person_one",
+  "group": 8
+},
+"68A-4 Ronan Fathomer": {
+  "resource": ["Бмат"],
+  "cost_per_box": [250],
+  "distribution": "per_person_one",
+  "group": 8
+},
+  "Tulka I1.9 White Raven": {
+    "recipe": {"steel": 0, "m1": 0, "m2": 145, "m3": 40, "m4": 0, "m5": 0, "proc": 40, "rare": 2, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  },
+  "Luminary Mk. II Harbinger": {
+    "recipe": {"steel": 0, "m1": 100, "m2": 0, "m3": 0, "m4": 100, "m5": 0, "proc": 40, "rare": 2, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  },
+  "M925 Austringer Man-O-War": {
+    "recipe": {"steel": 0, "m1": 85, "m2": 100, "m3": 20, "m4": 20, "m5": 0, "proc": 25, "rare": 5, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  },
+  "Rinnspeir Mk. I Zealot": {
+    "recipe": {"steel": 5, "m1": 0, "m2": 0, "m3": 20, "m4": 20, "m5": 0, "proc": 0, "rare": 4, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  },
+  "Tulka P4 Welkinrive": {
+    "recipe": {"steel": 60, "m1": 0, "m2": 0, "m3": 25, "m4": 40, "m5": 65, "proc": 0, "rare": 12, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  },
+  "Warden Aircraft Mechanical Parts (Small)": {
+    "recipe": {"steel": 0, "m1": 0, "m2": 0, "m3": 25, "m4": 0, "m5": 0, "proc": 35, "rare": 0, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  },
+  "Warden Aircraft Mechanical Parts (Large)": {
+    "recipe": {"steel": 0, "m1": 0, "m2": 0, "m3": 25, "m4": 0, "m5": 0, "proc": 35, "rare": 0, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  },
+  "Warden Aircraft Engine (Small)": {
+    "recipe": {"steel": 0, "m1": 0, "m2": 0, "m3": 0, "m4": 25, "m5": 0, "proc": 95, "rare": 0, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  },
+  "Warden Aircraft Engine (Large)": {
+    "recipe": {"steel": 0, "m1": 0, "m2": 0, "m3": 0, "m4": 25, "m5": 0, "proc": 95, "rare": 0, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  },
+  "Tulka I1.9 White Raven (Ящик)": {
+    "recipe": {"steel": 0, "m1": 0, "m2": 145, "m3": 40, "m4": 0, "m5": 0, "proc": 40, "rare": 2, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  },
+  "Luminary Mk. II Harbinger (Ящик)": {
+    "recipe": {"steel": 0, "m1": 100, "m2": 0, "m3": 0, "m4": 100, "m5": 0, "proc": 40, "rare": 2, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  },
+  "M925 Austringer Man-O-War (Ящик)": {
+    "recipe": {"steel": 0, "m1": 85, "m2": 100, "m3": 20, "m4": 20, "m5": 0, "proc": 25, "rare": 5, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  },
+  "Rinnspeir Mk. I Zealot (Ящик)": {
+    "recipe": {"steel": 5, "m1": 0, "m2": 0, "m3": 20, "m4": 20, "m5": 0, "proc": 0, "rare": 4, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  },
+  "Tulka P4 Welkinrive (Ящик)": {
+    "recipe": {"steel": 60, "m1": 0, "m2": 0, "m3": 25, "m4": 40, "m5": 65, "proc": 0, "rare": 12, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  },
+  "Warden Aircraft Mechanical Parts (Small) (Ящик)": {
+    "recipe": {"steel": 0, "m1": 0, "m2": 0, "m3": 25, "m4": 0, "m5": 0, "proc": 35, "rare": 0, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  },
+  "Warden Aircraft Mechanical Parts (Large) (Ящик)": {
+    "recipe": {"steel": 0, "m1": 0, "m2": 0, "m3": 25, "m4": 0, "m5": 0, "proc": 35, "rare": 0, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  },
+  "Warden Aircraft Engine (Small) (Ящик)": {
+    "recipe": {"steel": 0, "m1": 0, "m2": 0, "m3": 0, "m4": 25, "m5": 0, "proc": 95, "rare": 0, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  },
+  "Warden Aircraft Engine (Large) (Ящик)": {
+    "recipe": {"steel": 0, "m1": 0, "m2": 0, "m3": 0, "m4": 25, "m5": 0, "proc": 95, "rare": 0, "build": 0},
+    "is_aviation": true,
+    "group": 11
+  }
+}
